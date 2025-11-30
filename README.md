@@ -1,6 +1,6 @@
 # General_Purpose_SLM
 
-# Automated Website Dataset Builder & Fine-Tuned SLM 🚀
+# Automated Website Dataset Builder & Fine-Tuned SLM 
 
 A complete pipeline to **automatically build structured datasets from any website** and **fine-tune a Small Language Model (SLM)** on that dataset.  
 This enables you to quickly create domain-specific AI models based on real website content — efficient, lightweight, and cost-friendly.
