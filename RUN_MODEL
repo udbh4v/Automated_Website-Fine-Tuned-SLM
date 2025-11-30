@@ -1,0 +1,4 @@
+from slm import load_model   # or appropriate method
+model = load_model("./my_custom_slm")
+response = model.generate("Your input here …")
+print(response)
