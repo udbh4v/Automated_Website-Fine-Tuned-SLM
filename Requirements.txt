@@ -1,0 +1,30 @@
+# Web Scraping / Data Extraction
+requests
+beautifulsoup4
+trafilatura
+lxml
+html5lib
+
+# Data Handling
+pandas
+numpy
+tqdm
+jsonlines
+
+# Model Training & Tokenization
+transformers
+datasets
+sentencepiece
+accelerate
+huggingface_hub
+
+# Optional: for GPU acceleration (auto-handled by PyTorch installer)
+torch
+
+# Utilities
+python-dotenv
+regex
+
+# Optional cleaning and preprocessing tools
+cleantext
+unidecode
