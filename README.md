@@ -28,7 +28,7 @@ This repository contains two core components:
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✔️ Fully automated website-to-dataset pipeline  
 - ✔️ Preprocessing, cleaning, and structuring included  
@@ -38,7 +38,7 @@ This repository contains two core components:
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 Clone the repository:
 
@@ -48,7 +48,7 @@ cd Automated_Website-Fine-Tuned-SLM
 pip install -r requirements.txt
 
 
-# 📘 USER GUIDE  
+#  USER GUIDE  
 ## Automated Website Dataset Builder & Fine-Tuned SLM
 
 Welcome to the official **User Guide** for the *Automated Website → Dataset → Fine-Tuned SLM* pipeline.  
@@ -56,7 +56,7 @@ This document explains how to install, run, customize, and extend the system —
 
 ---
 
-# 📂 1. Introduction
+#  1. Introduction
 
 This project helps you:
 
@@ -69,7 +69,7 @@ It is lightweight, efficient, and ideal for business websites, SaaS platforms, b
 
 ---
 
-# ⚙️ 2. Prerequisites
+#  2. Prerequisites
 
 Before beginning, ensure you have:
 
